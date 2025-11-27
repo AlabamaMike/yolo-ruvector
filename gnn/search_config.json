@@ -1,0 +1,9 @@
+{
+  "search_type": "differentiable",
+  "attention_mechanism": "soft",
+  "temperature": 0.1,
+  "top_k": 5,
+  "embedding_dim": 384,
+  "use_gradient": true,
+  "similarity_metric": "cosine"
+}

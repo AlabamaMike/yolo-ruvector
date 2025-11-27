@@ -1,0 +1,104 @@
+{
+  "vectors": [
+    {
+      "id": "ai_001",
+      "text": "Transformer architecture uses self-attention mechanisms for sequence processing",
+      "category": "ai"
+    },
+    {
+      "id": "ai_002",
+      "text": "Reinforcement learning trains agents through reward signals and environment interaction",
+      "category": "ai"
+    },
+    {
+      "id": "ai_003",
+      "text": "Large language models predict next tokens using billions of learned parameters",
+      "category": "ai"
+    },
+    {
+      "id": "sw_001",
+      "text": "Microservices architecture decomposes applications into small independent services",
+      "category": "software"
+    },
+    {
+      "id": "sw_002",
+      "text": "Container orchestration manages deployment and scaling of containerized applications",
+      "category": "software"
+    },
+    {
+      "id": "sw_003",
+      "text": "Event-driven architecture uses events to trigger and communicate between services",
+      "category": "software"
+    },
+    {
+      "id": "hw_001",
+      "text": "GPUs accelerate parallel computing with thousands of cores for matrix operations",
+      "category": "hardware"
+    },
+    {
+      "id": "hw_002",
+      "text": "Quantum computers use qubits that can exist in superposition states",
+      "category": "hardware"
+    },
+    {
+      "id": "hw_003",
+      "text": "Neuromorphic chips mimic brain structure for energy-efficient AI computation",
+      "category": "hardware"
+    },
+    {
+      "id": "ai_004",
+      "text": "Diffusion models generate data by learning to reverse a noise addition process",
+      "category": "ai"
+    },
+    {
+      "id": "ai_005",
+      "text": "Vector databases enable semantic search using high-dimensional embeddings",
+      "category": "ai"
+    },
+    {
+      "id": "sw_004",
+      "text": "GraphQL provides a query language for APIs with typed schemas",
+      "category": "software"
+    },
+    {
+      "id": "sw_005",
+      "text": "WebAssembly enables near-native performance for web applications",
+      "category": "software"
+    },
+    {
+      "id": "hw_004",
+      "text": "TPUs are application-specific integrated circuits optimized for tensor operations",
+      "category": "hardware"
+    },
+    {
+      "id": "ai_006",
+      "text": "Federated learning trains models across decentralized devices without sharing data",
+      "category": "ai"
+    },
+    {
+      "id": "sw_006",
+      "text": "Serverless computing automatically manages infrastructure and scaling",
+      "category": "software"
+    },
+    {
+      "id": "hw_005",
+      "text": "NVMe storage provides low-latency access through PCIe interface",
+      "category": "hardware"
+    },
+    {
+      "id": "ai_007",
+      "text": "Mixture of experts routes inputs to specialized sub-networks",
+      "category": "ai"
+    },
+    {
+      "id": "sw_007",
+      "text": "CQRS separates read and write operations for complex domains",
+      "category": "software"
+    },
+    {
+      "id": "hw_006",
+      "text": "In-memory computing processes data directly where it is stored",
+      "category": "hardware"
+    }
+  ]
+}

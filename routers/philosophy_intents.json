@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "name": "ethics_query",
+      "description": "Questions about morality, right and wrong, ethical theories",
+      "examples": [
+        "What makes an action morally right?",
+        "Is lying ever justified?",
+        "What is the trolley problem?",
+        "How should we treat others?",
+        "What are our moral obligations?"
+      ]
+    },
+    {
+      "name": "metaphysics_query",
+      "description": "Questions about reality, existence, consciousness",
+      "examples": [
+        "What is the nature of reality?",
+        "Do we have free will?",
+        "What is consciousness?",
+        "Does God exist?",
+        "What is the relationship between mind and body?"
+      ]
+    },
+    {
+      "name": "epistemology_query",
+      "description": "Questions about knowledge, truth, belief",
+      "examples": [
+        "How do we know what is true?",
+        "What is knowledge?",
+        "Can we trust our senses?",
+        "Is certainty possible?",
+        "What makes a belief justified?"
+      ]
+    },
+    {
+      "name": "political_philosophy",
+      "description": "Questions about justice, government, society",
+      "examples": [
+        "What is a just society?",
+        "What legitimizes government?",
+        "What are human rights?",
+        "How should wealth be distributed?",
+        "What is the social contract?"
+      ]
+    }
+  ]
+}

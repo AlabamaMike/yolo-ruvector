@@ -1,0 +1,47 @@
+{
+  "intents": [
+    {
+      "name": "physics_query",
+      "description": "Questions about physics, mechanics, relativity, quantum theory",
+      "examples": [
+        "How does gravity work?",
+        "What is quantum entanglement?",
+        "Explain the theory of relativity",
+        "How do particles behave at the quantum level?",
+        "What are the laws of thermodynamics?"
+      ]
+    },
+    {
+      "name": "chemistry_query",
+      "description": "Questions about chemistry, molecules, reactions, elements",
+      "examples": [
+        "How do chemical bonds form?",
+        "What is an oxidation reaction?",
+        "How do catalysts work?",
+        "What makes water a polar molecule?",
+        "Explain electronegativity"
+      ]
+    },
+    {
+      "name": "biology_query",
+      "description": "Questions about biology, life, organisms, genetics",
+      "examples": [
+        "How does DNA replication work?",
+        "What is the process of photosynthesis?",
+        "How do cells divide?",
+        "What is CRISPR gene editing?",
+        "How does evolution occur?"
+      ]
+    },
+    {
+      "name": "interdisciplinary",
+      "description": "Questions spanning multiple science domains",
+      "examples": [
+        "How do physics and biology connect?",
+        "What is biochemistry?",
+        "How does chemistry relate to life?",
+        "Cross-disciplinary scientific methods"
+      ]
+    }
+  ]
+}
