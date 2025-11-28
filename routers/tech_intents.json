@@ -1,0 +1,48 @@
+{
+  "intents": [
+    {
+      "name": "ai_ml_query",
+      "description": "Questions about AI, machine learning, neural networks",
+      "examples": [
+        "How do transformers work?",
+        "What is deep learning?",
+        "How are neural networks trained?",
+        "Explain backpropagation",
+        "What is a large language model?"
+      ]
+    },
+    {
+      "name": "infrastructure_query",
+      "description": "Questions about DevOps, cloud, containers, databases",
+      "examples": [
+        "How does Kubernetes work?",
+        "What is a vector database?",
+        "Explain containerization",
+        "How do microservices communicate?",
+        "What is serverless architecture?"
+      ]
+    },
+    {
+      "name": "programming_query",
+      "description": "Questions about programming languages and software development",
+      "examples": [
+        "What is Rust used for?",
+        "How does WebAssembly work?",
+        "Explain GraphQL vs REST",
+        "What are design patterns?",
+        "How does garbage collection work?"
+      ]
+    },
+    {
+      "name": "hardware_query",
+      "description": "Questions about hardware, chips, computing architecture",
+      "examples": [
+        "How do GPUs accelerate AI?",
+        "What is a TPU?",
+        "How do quantum computers work?",
+        "What is neuromorphic computing?",
+        "Explain CPU vs GPU architecture"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ai-knowledge-universe",
+  "version": "1.0.0",
+  "description": "A unified AI knowledge system built with ruvector",
+  "main": "src/orchestrator.ts",
+  "bin": {
+    "knowledge": "src/cli.ts"
+  },
+  "scripts": {
+    "start": "npx ts-node src/cli.ts",
+    "search": "npx ts-node src/cli.ts search",
+    "demo": "npm run search -- 'How do neural networks relate to brain function?'"
+  },
+  "keywords": [
+    "ai",
+    "vector-database",
+    "knowledge-graph",
+    "semantic-search"
+  ],
+  "dependencies": {
+    "@ruvector/core": "^0.1.15",
+    "@ruvector/graph-node": "^0.1.15",
+    "better-sqlite3": "^12.4.6",
+    "ruvector": "^0.1.24"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

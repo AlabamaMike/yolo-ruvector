@@ -1,0 +1,24 @@
+{
+  "vectors": [
+    {"id": "eth_001", "text": "Utilitarianism evaluates actions based on their consequences for overall happiness", "category": "ethics"},
+    {"id": "eth_002", "text": "Deontological ethics judges morality based on adherence to rules and duties", "category": "ethics"},
+    {"id": "eth_003", "text": "Virtue ethics focuses on developing good character traits for moral excellence", "category": "ethics"},
+    {"id": "meta_001", "text": "Dualism posits that mind and body are fundamentally different substances", "category": "metaphysics"},
+    {"id": "meta_002", "text": "Determinism holds that all events are caused by prior events according to laws", "category": "metaphysics"},
+    {"id": "meta_003", "text": "Existentialism emphasizes individual freedom and authentic self-creation", "category": "metaphysics"},
+    {"id": "epist_001", "text": "Empiricism claims all knowledge derives from sensory experience", "category": "epistemology"},
+    {"id": "epist_002", "text": "Rationalism holds that reason is the primary source of knowledge", "category": "epistemology"},
+    {"id": "epist_003", "text": "Skepticism questions whether certain knowledge is possible", "category": "epistemology"},
+    {"id": "eth_004", "text": "Social contract theory derives political legitimacy from agreement among citizens", "category": "ethics"},
+    {"id": "eth_005", "text": "Moral relativism holds that ethical truths vary across cultures", "category": "ethics"},
+    {"id": "meta_004", "text": "Idealism claims that reality is fundamentally mental or spiritual", "category": "metaphysics"},
+    {"id": "meta_005", "text": "Materialism reduces all phenomena to physical matter and its interactions", "category": "metaphysics"},
+    {"id": "epist_004", "text": "Pragmatism evaluates truth based on practical consequences and usefulness", "category": "epistemology"},
+    {"id": "epist_005", "text": "Foundationalism builds knowledge on basic self-evident beliefs", "category": "epistemology"},
+    {"id": "eth_006", "text": "Care ethics emphasizes relationships and responsibility to others", "category": "ethics"},
+    {"id": "meta_006", "text": "Phenomenology studies consciousness and subjective experience", "category": "metaphysics"},
+    {"id": "epist_006", "text": "Coherentism justifies beliefs through mutual support within a belief system", "category": "epistemology"},
+    {"id": "eth_007", "text": "The trolley problem explores moral intuitions about action versus inaction", "category": "ethics"},
+    {"id": "meta_007", "text": "Free will debates whether human choices are truly autonomous", "category": "metaphysics"}
+  ]
+}

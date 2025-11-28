@@ -1,0 +1,24 @@
+{
+  "vectors": [
+    {"id": "phys_001", "text": "Quantum entanglement describes correlations between particles that persist regardless of distance", "category": "physics"},
+    {"id": "phys_002", "text": "Black holes are regions of spacetime where gravity is so strong nothing can escape", "category": "physics"},
+    {"id": "phys_003", "text": "The Higgs boson gives particles their mass through the Higgs field interaction", "category": "physics"},
+    {"id": "chem_001", "text": "Molecular orbitals form when atomic orbitals combine in chemical bonding", "category": "chemistry"},
+    {"id": "chem_002", "text": "Catalysis accelerates chemical reactions without being consumed in the process", "category": "chemistry"},
+    {"id": "chem_003", "text": "Electronegativity measures an atom's tendency to attract electrons in a bond", "category": "chemistry"},
+    {"id": "bio_001", "text": "CRISPR-Cas9 enables precise genome editing by cutting DNA at specific locations", "category": "biology"},
+    {"id": "bio_002", "text": "Mitochondria generate ATP through oxidative phosphorylation in the electron transport chain", "category": "biology"},
+    {"id": "bio_003", "text": "Synaptic plasticity allows neural connections to strengthen or weaken over time", "category": "biology"},
+    {"id": "phys_004", "text": "General relativity describes gravity as the curvature of spacetime caused by mass", "category": "physics"},
+    {"id": "phys_005", "text": "Wave-particle duality shows that light behaves as both waves and particles", "category": "physics"},
+    {"id": "chem_004", "text": "Polymers are macromolecules composed of repeating structural units called monomers", "category": "chemistry"},
+    {"id": "chem_005", "text": "Thermodynamic entropy measures the disorder and randomness in a system", "category": "chemistry"},
+    {"id": "bio_004", "text": "Photosynthesis converts light energy into chemical energy in chloroplasts", "category": "biology"},
+    {"id": "bio_005", "text": "DNA replication is semi-conservative with each strand serving as a template", "category": "biology"},
+    {"id": "phys_006", "text": "Superconductivity allows current to flow without resistance below critical temperature", "category": "physics"},
+    {"id": "chem_006", "text": "Chirality in molecules creates mirror-image isomers called enantiomers", "category": "chemistry"},
+    {"id": "bio_006", "text": "Epigenetics studies heritable changes in gene expression without DNA sequence changes", "category": "biology"},
+    {"id": "phys_007", "text": "Dark matter provides gravitational effects but does not interact with light", "category": "physics"},
+    {"id": "bio_007", "text": "Apoptosis is programmed cell death essential for development and homeostasis", "category": "biology"}
+  ]
+}

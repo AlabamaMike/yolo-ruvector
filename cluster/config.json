@@ -1,0 +1,24 @@
+{
+  "cluster_name": "ai-knowledge-universe",
+  "nodes": [
+    {"id": "node-1", "role": "leader", "host": "localhost", "port": 6380},
+    {"id": "node-2", "role": "follower", "host": "localhost", "port": 6381},
+    {"id": "node-3", "role": "follower", "host": "localhost", "port": 6382}
+  ],
+  "replication_factor": 2,
+  "sharding": {
+    "enabled": true,
+    "strategy": "consistent-hashing",
+    "virtual_nodes": 128
+  },
+  "consensus": {
+    "protocol": "raft",
+    "election_timeout_ms": 300,
+    "heartbeat_interval_ms": 100
+  },
+  "databases": [
+    {"name": "science", "shard_key": "category"},
+    {"name": "technology", "shard_key": "domain"},
+    {"name": "philosophy", "shard_key": "branch"}
+  ]
+}
